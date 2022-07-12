@@ -1,7 +1,9 @@
+On clicking on Read More button redirects to official news page.
 
 ![General - NewsMonkey](https://user-images.githubusercontent.com/107427119/178466630-2a45eb4f-20db-4364-92eb-fca5af8425b3.png)
 ## Shows Latest News Category wise
-On clicking on Read More button redirects to official news page.
+
+
 ![Sports - NewsMonkey](https://user-images.githubusercontent.com/107427119/178466232-8c2af60b-6a8b-4f3c-b651-62ba77d288da.jpg)
 
 
